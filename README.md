@@ -1,4 +1,4 @@
-# Task 7 – Sales Summary Using SQL In Python 
+# Task 7 – Sales Summary Using SQL In Python (Elevate Labs Internship)
 
 This project is created using Python with a tiny SQLite database containing sample sales data
 
